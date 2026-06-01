@@ -1,0 +1,8 @@
+your.domain.com {
+	reverse_proxy webdav:80
+	encode gzip
+	log {
+		output stdout
+		format console
+	}
+}

@@ -1,0 +1,6 @@
+.env
+secrets/
+data/
+caddy/data/
+caddy/config/
+Caddyfile
